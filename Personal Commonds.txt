@@ -1,0 +1,1 @@
+keytool -list -v -keystore TanzeemApp.keystore -alias TanzeemApp -storepass Pak1265513 -keypass Pak1265513
