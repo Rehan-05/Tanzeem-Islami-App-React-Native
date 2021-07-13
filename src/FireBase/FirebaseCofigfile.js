@@ -14,13 +14,13 @@ console.warn = message => {
 
   // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyDIQPj7p2J7FE5MU45bkUyfXOnHJ9JL5b0",
-  authDomain: "tanzeemapp.firebaseapp.com",
-  projectId: "tanzeemapp",
-  storageBucket: "tanzeemapp.appspot.com",
-  messagingSenderId: "799318648334",
-  appId: "1:799318648334:web:4778000730db0587cdfe5f",
-  measurementId: "G-F8C8DH4BQW"
+  apiKey: "AIzaSyB3FL1qnMM2aI-wt7fi0uKtAndrRqgDzms",
+  authDomain: "tanzeem.com",
+  projectId: "tanzeemapp-6f072",
+  storageBucket: "tanzeemapp-6f072.appspot.com",
+  messagingSenderId: "767401992205",
+  appId: "1:767401992205:android:365c4a0cc71a065a3e3544",
+  //measurementId: "G-F8C8DH4BQW"
 };
  
 
